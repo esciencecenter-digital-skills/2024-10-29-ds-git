@@ -5,7 +5,7 @@
       <tr> <td>10:45</td> <td>Welcome</td> </tr>
       <tr> <td>10:50</td> <td>Introduction to Git, setting up Git </td> </tr>
       <tr> <td>11:30</td> <td>Coffee break</td> </tr>
-      <tr> <td>11:45</td> <td>Creating a repository, tracking changes. </td> </tr>
+      <tr> <td>11:45</td> <td>Creating a repository, tracking changes</td> </tr>
       <tr> <td>12:30</td>  <td>END</td> </tr>
     </table>
   </div>
